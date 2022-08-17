@@ -1,0 +1,15 @@
+D:\Repos\VariablePractice\VariablePracticeConsole\bin\Debug\net6.0\VariablePracticeConsole.exe
+D:\Repos\VariablePractice\VariablePracticeConsole\bin\Debug\net6.0\VariablePracticeConsole.deps.json
+D:\Repos\VariablePractice\VariablePracticeConsole\bin\Debug\net6.0\VariablePracticeConsole.runtimeconfig.json
+D:\Repos\VariablePractice\VariablePracticeConsole\bin\Debug\net6.0\VariablePracticeConsole.dll
+D:\Repos\VariablePractice\VariablePracticeConsole\bin\Debug\net6.0\VariablePracticeConsole.pdb
+D:\Repos\VariablePractice\VariablePracticeConsole\obj\Debug\net6.0\VariablePracticeConsole.csproj.AssemblyReference.cache
+D:\Repos\VariablePractice\VariablePracticeConsole\obj\Debug\net6.0\VariablePracticeConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\VariablePractice\VariablePracticeConsole\obj\Debug\net6.0\VariablePracticeConsole.AssemblyInfoInputs.cache
+D:\Repos\VariablePractice\VariablePracticeConsole\obj\Debug\net6.0\VariablePracticeConsole.AssemblyInfo.cs
+D:\Repos\VariablePractice\VariablePracticeConsole\obj\Debug\net6.0\VariablePracticeConsole.csproj.CoreCompileInputs.cache
+D:\Repos\VariablePractice\VariablePracticeConsole\obj\Debug\net6.0\VariablePracticeConsole.dll
+D:\Repos\VariablePractice\VariablePracticeConsole\obj\Debug\net6.0\refint\VariablePracticeConsole.dll
+D:\Repos\VariablePractice\VariablePracticeConsole\obj\Debug\net6.0\VariablePracticeConsole.pdb
+D:\Repos\VariablePractice\VariablePracticeConsole\obj\Debug\net6.0\VariablePracticeConsole.genruntimeconfig.cache
+D:\Repos\VariablePractice\VariablePracticeConsole\obj\Debug\net6.0\ref\VariablePracticeConsole.dll
